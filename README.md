@@ -1,5 +1,5 @@
 # Irish ISP Fiber Settings (2025)
-Fiber settings for Internet Service Providers in Ireland<br/>
+Fiber (FTTH) settings for Internet Service Providers in Ireland<br/>
 <br/>
 **Ubiquiti Unifi Configuration details**<br/> 
 Note: Instructions based on UniFi Network 9 (2025)
