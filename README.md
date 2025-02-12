@@ -1,4 +1,4 @@
-# Irish ISP Fiber Settings (updated 20250208)
+# Irish ISP Fiber Settings (2025)
 Fiber settings for Internet Service Providers in Ireland<br/>
 <br/>
 **Ubiquiti Unifi Configuration details**<br/> 
