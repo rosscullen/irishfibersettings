@@ -1,8 +1,9 @@
 # Irish ISP Fiber Settings (2025)
 Fiber (FTTH) settings for Internet Service Providers in Ireland<br/>
+The settings below eliminates the need to use the Router provided by your ISP and connect directly to your own network setup, in this case, a Ubiquiti Unifi setup. You can connect your UniFi router WAN port directlty to your ONT (typically Huawei in Ireland). This then connects to another box via fiber (known as anNetwork termination unit, or NTU).<br/>
 <br/>
 **Ubiquiti Unifi Configuration details**<br/> 
-Note: Instructions based on UniFi Network 9 (2025)
+**Note**: Instructions based on UniFi Network 9 (2025)
 * Login to UniFi Network (default URL is https://unifi<br/> 
 * Click "settings" icon and then click on "internet"<br/>
 * Click on "Primary (WAN1)"<br/>
